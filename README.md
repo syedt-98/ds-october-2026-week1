@@ -8,6 +8,15 @@
 - **Daily scrum:** 09:15 every day
 - **Tuesday 13 Oct presentation:** [PRESENTATION.md](PRESENTATION.md). Your dataset and problem statement are on your W1 Trello card
 
+## Session materials
+
+| Topic | Material |
+|---|---|
+| **Classification guide** (interactive HTML): binary classification, logistic regression, naive Bayes, SVM, decision trees, bagging & boosting algorithms, metrics (precision / recall / F1, why accuracy misleads, ROC-AUC), hyperparameters for each algorithm, cross-validation, overfitting vs underfitting | [materials/classification_guide.html](materials/classification_guide.html): download and open it in a browser |
+| Imbalanced classification: 4 algorithms, overfitting vs underfitting, SMOTE vs undersampling, precision/recall/F1, ROC-AUC | [materials/imbalanced_classification.ipynb](materials/imbalanced_classification.ipynb) |
+
+Setup for the notebook: `uv add pandas numpy matplotlib scikit-learn imbalanced-learn jupyter`
+
 ## How to work in this repo
 
 1. **Fork** this repo on GitHub, then clone **your fork**.
