@@ -14,8 +14,9 @@
 |---|---|
 | **Classification guide** (interactive HTML): binary classification, logistic regression, naive Bayes, SVM, decision trees, bagging & boosting algorithms, metrics (precision / recall / F1, why accuracy misleads, ROC-AUC), hyperparameters for each algorithm, cross-validation, overfitting vs underfitting | [materials/classification_guide.html](materials/classification_guide.html): download and open it in a browser |
 | Imbalanced classification: 4 algorithms, overfitting vs underfitting, SMOTE vs undersampling, precision/recall/F1, ROC-AUC | [materials/imbalanced_classification.ipynb](materials/imbalanced_classification.ipynb) |
+| Hyperparameter tuning (GridSearchCV vs RandomizedSearchCV), ROC-AUC explained step by step, K-Means step by step (elbow, silhouette, iris example) | [materials/tuning_roc_kmeans.ipynb](materials/tuning_roc_kmeans.ipynb) |
 
-Setup for the notebook: `uv add pandas numpy matplotlib scikit-learn imbalanced-learn jupyter`
+Setup for the notebook: `uv add pandas numpy matplotlib scikit-learn scipy imbalanced-learn jupyter`
 
 ## How to work in this repo
 
