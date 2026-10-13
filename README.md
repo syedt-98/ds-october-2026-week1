@@ -2,6 +2,8 @@
 
 **Data Science & Agentic AI Programme** · Mon 5 Oct - Fri 9 Oct 2026
 
+hi there
+
 - **Main course repo:** <https://github.com/samuelts96/ds-october-2026> (programme syllabus and Git guide)
 - **Training plan:** [syllabus/Week-1_Training_Plan.docx](syllabus/Week-1_Training_Plan.docx) (summarised below)
 - **Progress tracking:** your *W1* card on the DS October Trello board
